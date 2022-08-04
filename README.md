@@ -4,7 +4,7 @@ A Python script to combine like audio files based on a key:value CSV file.
 
 This script was designed to take in a set of audio files, look them up in a CSV, and output a set of combined audio files based on their characteristics. It was intended for linguistics research.
 
-For example, imagine you have a set of audio files labeled 001.wav, 002.wav, 003.wav and so on. Each file is a recording of one word. You can use this script to combine them by any feature that you specify.
+For example, imagine you have a set of audio files labeled 001.wav, 002.wav, 003.wav and so on. Each file is a recording of one word. You can use this script to combine them by any feature that you specify. I have included sample files in the Example folder to illustrate this introduction.
 
 Imagine that you have created a CSV that looks like this, without the headers. You, the researcher, know that file 1 is a recording of "cat," file 2 is a recording of "tap," and so on down the list. 
 
